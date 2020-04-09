@@ -9,3 +9,12 @@ Grady
 Jack
 Jackson 
 Caden
+
+Michaela's feedback:
+1. On your activity diagram, please include details on what your feed will look like/what attributes of each rock you are looking at
+2. You need a lot more information on your to do list:
+  - items under user interface should be their own items - creating a user interface is its own task
+  - one task should be to create the structure of what one entry will be
+  - one task should be to create the database of entries
+  - networking is a big task - add more info here
+  - assign specific people to specific tasks!
