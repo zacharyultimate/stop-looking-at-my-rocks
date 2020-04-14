@@ -1,1 +1,25 @@
 Login Code
+
+# Imports tkinter
+from tkinter import *
+
+# Creates the main screen 
+def main_account_screen():
+    main_screen = Tk() # Creates a GUI window 
+    main_screen.geometry("300x250") # Sets the size of the GUI window
+    main_screen.title("IRock Account Login") # Sets the title of the window 
+    
+# Create a Form Label
+Label(text="Login or Register for IRock", bg="blue", width="300", height="2", font=(Calibri", 13)).pack()
+Label(text="").pack()
+
+# Creates the Login Button 
+Button(text = "Login", height="2", width="30").pack()
+Label(text="").pack()
+
+# Creates the Register button 
+Button(text = "Register", height="2", width="30").pack()
+
+main_screen.mainloop()
+
+main_account_screen()
