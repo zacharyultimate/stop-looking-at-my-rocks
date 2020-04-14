@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IROCK</string>
+    <string name="edit_message">Enter your name</string>
+    <string name="button_send">Send</string>
+    <string name="welcome">Welcome to...</string>
+    <string name="yup">yup</string>
+    <string name="logo">IROCK</string>
+    <string name="discription">IROCK is the leading edge of rock sharing technology. Enjoy responsibly!</string>
+</resources>
